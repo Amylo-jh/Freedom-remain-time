@@ -1,4 +1,4 @@
-# my-military-counter
+# Freedom remain time
 노예인 나를 위한 디데이 카운터
 
 <!-- [Preview](https://detegice.github.io/my-military-counter/) -->
