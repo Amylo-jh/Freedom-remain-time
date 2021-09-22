@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 
 body, html {
   height: 100%;
@@ -6,15 +6,13 @@ body, html {
 }
 
 .bg-image {
-  background-image: url("https://github.com/DetegiCE/my-military-counter/blob/main/res/img/ridilogo.png?raw=true");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
-  filter: blur(10px);
-  -webkit-filter: blur(10px);
-
-  height: 100%;
+    background-image: url("https://github.com/Amylo-jh/my-military-counter/blob/main/res/img/Emancipation_Proclamation.jpg?raw=true");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+    height: 100%;
 }
 
 .bg-text {
