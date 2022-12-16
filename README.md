@@ -1,7 +1,7 @@
 # Freedom remain time
 노예인 나를 위한 디데이 카운터
 
-<!-- [Preview](https://detegice.github.io/my-military-counter/) -->
+[Preview](https://amylo-jh.github.io/Freedom-remain-time/)
 
 ## How to Customize
 
